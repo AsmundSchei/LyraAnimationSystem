@@ -1,4 +1,4 @@
-# LyraAnimationSystem
+# Lyra animation system
 
 ![lyra01_358x201 jpg](https://github.com/user-attachments/assets/36967ec7-22db-4175-8c16-3a8c8ce4253b)
 
