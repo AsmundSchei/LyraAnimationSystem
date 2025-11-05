@@ -4,7 +4,7 @@
 
 
 
-I made a animation system with the Lyra animations, using blueprints instead of the complicated setup from the actual Lyra starter game.
+Animation system with the Lyra animations, using blueprints instead of the complicated setup from the actual Lyra starter game.
 Purpose of this repo is to have a unbloated Lyra version with blueprints, and a FPS controller instead of the thirdperson setup.
 
 Developed using UnrealEngine 5.4.
